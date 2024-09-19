@@ -54,3 +54,5 @@ document.querySelector('.again').addEventListener('click', function () {
   document.querySelector('.guess').value = '';
   console.log(randomNumber);
 });
+
+//  this comment is done for check the git commit update
